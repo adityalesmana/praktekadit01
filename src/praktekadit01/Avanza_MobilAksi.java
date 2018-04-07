@@ -14,8 +14,8 @@ public class Avanza_MobilAksi {
         Avanza_Mobil Bapak = new Avanza_Mobil();
         
         Bapak.Merk="Toyota";
-        Bapak.Warna="Merah";
-        Bapak.CC="1500cc";
+        Bapak.Warna="Biru Metalic";
+        Bapak.CC="5000cc";
         Bapak.Velg="Bintang";
         Bapak.Ban="Tubles";
         
